@@ -1,6 +1,6 @@
-# Cubie Pop support
+# Cubie Twist support
 
-Support page, privacy policy and terms of use for **Cubie Pop**, the swap-and-match puzzle game for iPad.
+Support page, privacy policy and terms of use for **Cubie Twist**, the swap-and-match puzzle game for iPad.
 
 - Support: https://abdalrhmanq93.github.io/cubiepop-support/
 - Privacy Policy: https://abdalrhmanq93.github.io/cubiepop-support/privacy.html
